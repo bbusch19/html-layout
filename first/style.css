@@ -6,17 +6,41 @@ html {
 }
 
 .main-content {
+  background-color: white;
+  width: 100%;
+  height: 1200px;
+}
 
+.main-header {
+  background: #404040;
+  height: 200px;
+  width: 100%;
+}
+
+.mid-content {
+  background: none;
+  height: 1100px;
+  width: 70%;
+  float: left;
 }
 
 .left-cont {
-
+  background: #C0C0C0;
+  height: 1200px;
+  width: 15%;
+  float: left;
 }
 
 .right-cont {
-
+  background: #C0C0C0;
+  height: 1200px;
+  width: 15%;
+  float: right;
 }
 
 .bottom-cont {
-  
+  background: #2d2d2d;
+  height: 100px;
+  float: left;
+  width: 70%;
 }
