@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.main-content {
+
+}
+
+.left-cont {
+
+}
+
+.right-cont {
+
+}
+
+.bottom-cont {
+  
+}
